@@ -18,7 +18,7 @@ python decryptor.py -m raw
 
 ## Gradient Ascent Metrics
 
-![grad_ascent](gradient_ascent.png)
+![grad_ascent](images/gradient_ascent.png)
 
 ## Requirements
 
