@@ -17,7 +17,6 @@ import textwrap
 import random
 import argparse
 import numpy as np
-import matplotlib.pyplot as plt
 
 # create a class named Substitution cipher that created random mapping dictionary for substitution cipher encryption
 class SubstitutionCipher:
