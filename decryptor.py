@@ -11,10 +11,8 @@ python decryptor.py -m raw
 '''
 
 # import necessary libraries
-import os
 import re
 import string
-import requests
 import textwrap
 import random
 import argparse
