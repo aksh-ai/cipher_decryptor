@@ -101,7 +101,7 @@ class Cipher:
 
     # create markov model based on an English text dataset
     # read line by line
-    for line in open('scraped_text.txt', encoding='utf8'):
+    for line in open('dataset/scraped_text.txt', encoding='utf8'):
       # read a line  
       line = line.rstrip()  
 
