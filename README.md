@@ -2,6 +2,20 @@
 
 A substitution cipher decryption algorithm using Natural Language Processing techniques and Genetic Algorithm 
 
+## Usage
+
+If you have an encrypted text to decrypted, use:
+
+~~~bash
+python decryptor.py -m encrypted
+~~~
+
+If you want to encrypt your own text and then decrypt it, use:
+
+~~~bash
+python decryptor.py -m raw
+~~~
+
 ## Gradient Ascent Metrics
 
 ![grad_ascent](gradient_ascent.png)
