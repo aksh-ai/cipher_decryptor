@@ -9,6 +9,7 @@ python decryptor.py -m encrypted
 (or)
 python decryptor.py -m raw
 '''
+
 # import necessary libraries
 import os
 import re
