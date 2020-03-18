@@ -262,7 +262,7 @@ elif args.mode=='raw':
     print("Encrypted Message\n\n{}\n".format(textwrap.fill(input_message)))
 
 else:
-    print("\nInvlaid argument. \n\nUsage: python decryptor.py -m [input characteristic] (input characteristic can be either \"encrypted\" or \"raw\" without double quotes)\n")
+    print("\nInvalid argument. \n\nUsage: python decryptor.py -m [input characteristic] (input characteristic can be either \"encrypted\" or \"raw\" without double quotes)\n")
     exit()
 
 print("Decrypting...\n")
